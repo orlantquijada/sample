@@ -1,6 +1,6 @@
 print('hello world')
 
-print('new feature no typo')
+print('no typo')
 
 
 # added new feature again 
